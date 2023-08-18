@@ -9,10 +9,13 @@
 <img width="524" alt="Answer3" src="https://github.com/Muneerat/CloudAssignment1/assets/61662216/756cebd7-f3e9-4615-aa66-b7497418117b">
 
 4.Attach the user to a group called altschool
+
 <img width="519" alt="Answer44" src="https://github.com/Muneerat/CloudAssignment1/assets/61662216/2ad0d2f1-b024-4528-a684-837b642cae8f">
 
 5.Allow altschool group to be able to run only cat command on /etc/*
+
 <img width="298" alt="Answer5" src="https://github.com/Muneerat/CloudAssignment1/assets/61662216/f6c6f9fc-04ab-4f15-897b-0daf753dff64">
 
 6.Create another user. 
+
 <img width="515" alt="Answer6" src="https://github.com/Muneerat/CloudAssignment1/assets/61662216/a8116995-c326-44e0-94ed-c1326ec6d17a">
