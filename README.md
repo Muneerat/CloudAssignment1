@@ -23,4 +23,4 @@
 
 # CloudAssignment2
 
-<img width="515" alt="Answer6" src="https://github.com/Muneerat/CloudAssignment1/assets/61662216/a8116995-c326-44e0-94ed-c1326ec6d17a">
+<img width="469" alt="Capture" src="https://github.com/Muneerat/CloudAssignment1/assets/61662216/1c38a811-4402-4a20-a612-6b6b2d0b0a53">
